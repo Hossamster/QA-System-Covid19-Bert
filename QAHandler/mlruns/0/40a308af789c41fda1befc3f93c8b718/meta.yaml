@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/testing/QAHandler/mlruns/0/40a308af789c41fda1befc3f93c8b718/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 40a308af789c41fda1befc3f93c8b718
+run_uuid: 40a308af789c41fda1befc3f93c8b718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685568138898
+status: 1
+tags: []
+user_id: Hossam
